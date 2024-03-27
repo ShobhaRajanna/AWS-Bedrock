@@ -1,0 +1,6 @@
+{
+    "modelId": "mistral.mixtral-8x7b-instruct-v0:1",
+    "contentType": "application/json",
+    "accept": "application/json",
+    "body": "{\"prompt\":\"<s>[INST]I am going to Paris, what should I see?[/INST]\",\"max_tokens\":800,\"top_k\":50,\"top_p\":0.7,\"temperature\":0.7}"
+  }
